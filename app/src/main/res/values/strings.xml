@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">AssignmentOnDesignPattern</string>
+    <string name="btnFactoryPattern">Factory Pattern</string>
+    <string name="btnBuilderPattern">Builder Pattern</string>
+    <string name="btnSingletonPattern">Singleton Pattern</string>
+</resources>
